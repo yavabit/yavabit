@@ -3,6 +3,7 @@
 <h3 align="center">Fullstack JS web-developer. Programmer-developer in the field of automating HR processes based on the WebSoft/WebTutor system.</h3>
 
 ---
+<div style="display: flex; gap: 10px; margin-bottom: 10px">
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" />
@@ -10,21 +11,25 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-
+</div>
+<div style="display: flex; gap: 10px; margin-bottom: 10px">
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tsnode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-
+</div>
+<div style="display: flex; gap: 10px; margin-bottom: 10px">
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-
+</div>
+<div style="display: flex; gap: 10px; margin-bottom: 10px">
 <img height="32" width="32" src="https://cdn.simpleicons.org/json/green" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/xaml" />
+</div>
 
 ---
 I've over 20 repos, but half of this private, because its my local or work projects.      
