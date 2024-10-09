@@ -17,18 +17,16 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/tsnode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
 </div>
 <div style="display: flex; gap: 10px; margin-bottom: 10px">
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" />
+<img height="32" width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
 </div>
 <div style="display: flex; gap: 10px; margin-bottom: 10px">
 <img height="32" width="32" src="https://cdn.simpleicons.org/json/green" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/xaml" />
 </div>
 
 ---
