@@ -1,61 +1,94 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Anton</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Fullstack JS web-developer. Programmer-developer in the field of automating HR processes based on the WebSoft/WebTutor system.</h3>
+<h1 align="center">Hi, I'm Anton <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Waving hand" /></h1>
+
+<p align="center">
+  <strong>Development Team Lead · Full-stack JavaScript Developer</strong><br />
+  Building digital experiences and automating HR processes with WebSoft HCM
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-HR%20Automation-7C3AED?style=for-the-badge" alt="Focus: HR automation" />
+  <img src="https://img.shields.io/badge/Role-Development%20Team%20Lead-2563EB?style=for-the-badge" alt="Role: development team lead" />
+</p>
 
 ---
-<div style="display: flex; gap: 10px; margin-bottom: 10px">
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jquery" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-</div>
-<div style="display: flex; gap: 10px; margin-bottom: 10px">
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tsnode" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
-</div>
-<div style="display: flex; gap: 10px; margin-bottom: 10px">
-<img height="32" width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-</div>
-<div style="display: flex; gap: 10px; margin-bottom: 10px">
-<img height="32" width="32" src="https://cdn.simpleicons.org/json/green" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
-</div>
 
----
-I've over 20 repos, but half of this private, because its my local or work projects.      
+### 👨‍💻 About me
 
-Backend:
-* Lang: SSJS + TS
-* DB: Microsoft SQL Server, PostgreSQL, XML
-* DBMS: SSMS and pgAdmin.
-* SQL and xquery are actively used in development. Relational DBMSs are used together with NoSQL system using XML documents and xmd forms.
-Backend build and code transpilation using Gulp builder.
+I'm currently leading a development team focused on **HR process automation with WebSoft HCM**. I work across the stack, from React interfaces and backend integrations to databases and infrastructure. Many of my projects are private work or local projects.
 
-Frontend:
-* Stack: React JS + TS, Redux Toolkit, asynchronous thunk operations, RTK Query/TanStack Query tools.
-* Lang: JS + TS
-* Libs: React, Redux Toolkit, React Router, SASS, RTK Query/TanStack Query, antd, axios and other various libraries.
+🚀 **Web, desktop & mobile** — React, Electron and Expo<br />
+🧩 **HR technology** — WebSoft HCM / WebTutor development and integrations<br />
+☁️ **Infrastructure** — deployment of a multi-node WebSoft HCM cluster
 
-General
-* ESLint on backend and frontend.
-* Build projects via Vite/Webpack/Gulp.
-* Git version control system: GitHub/GitLab/Common repositories
-* Servers: Linux, Windows Server and cloud platforms. Amazon S3/RDP/FTP/Telnet connectivity.
-* API testing: Postman
+### 🛠️ My toolbox
 
-Python is also sometimes used for non-standard tasks. An aspx parser was written to generate json. A PDF converter was written to evaluate and analyze a document.
+**Frontend & apps**
 
-There was non-standard development on functional React without using babel builder to support older versions of IE.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,electron&perline=8" alt="React, Redux, TypeScript, JavaScript, HTML, CSS, Sass and Electron" />
+  <img src="https://cdn.simpleicons.org/expo/7C3AED" width="48" height="48" alt="Expo" />
+</p>
 
-Have written in PHP in the past. There are web projects, the largest of them is an online store with a custom admin panel.   
-There are projects in C# - WPF application of virtual lab setup, snake, tic-tac-toe  
-There are console applications in C++.  
-I wrote a diploma in Python - Modeling the UAV radio altimeter. There is also a learning experience of writing a telegram bot.
+**Backend, data & infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis,docker,nginx,linux,python&perline=8" alt="Node.js, PostgreSQL, MySQL, Redis, Docker, nginx, Linux and Python" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,gulp,postman,php&perline=8" alt="Git, GitHub, GitLab, Vite, Webpack, Gulp, Postman and PHP" />
+</p>
+
+### 🌟 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 <a href="https://github.com/yavabit/hangar">Hangar</a></h3>
+A hub for working with repositories, folders and IDEs.
+</td>
+<td width="50%" valign="top">
+<h3>🛩️ <a href="https://github.com/yavabit/uav-altimeter-simulate">UAV Altimeter Simulation</a></h3>
+A Python diploma project modeling a UAV radio altimeter.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💐 <a href="https://github.com/yavabit/may">May</a></h3>
+An online flower shop with online payments.
+</td>
+<td width="50%" valign="top">
+<h3>⛷️ <a href="https://github.com/yavabit/ski-track">Ski Track</a></h3>
+Explore the Ski Track project on GitHub.
+</td>
+</tr>
+</table>
+
+### 🏗️ Featured experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>👥 HR automation</h3>
+Leading a development team building solutions on <strong>WebSoft HCM</strong>, with React interfaces, server-side JavaScript, relational databases and XML-based data.
+</td>
+<td width="50%" valign="top">
+<h3>☁️ WebSoft HCM cluster</h3>
+Deployed a multi-node cluster on Ubuntu using <strong>Docker, PostgreSQL, PgBouncer, Redis and nginx</strong>, with WebSoft IDM and S3-compatible storage.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📱 Cross-platform apps</h3>
+Experience with <strong>Electron</strong> for desktop applications and <strong>Expo</strong> for mobile development, alongside a React and TypeScript stack.
+</td>
+<td width="50%" valign="top">
+<h3>🧪 Beyond the web</h3>
+Python document-processing tools, a PHP online store, C# WPF and C++ applications, and a Python diploma project modeling a UAV radio altimeter.
+</td>
+</tr>
+</table>
+
+<p align="center">💡 I enjoy solving unusual problems — from legacy browser support to distributed systems.</p>
